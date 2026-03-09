@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import { Send, MapPin, Phone, Mail, CheckCircle, AlertCircle, Loader } from 'lucide-react';
 
-const BACKEND_URL = 'http://localhost:5001/api/contact';
+const BACKEND_URL = '/api/contact';
 
 const Contact = () => {
     const formRef = useRef(null);
