@@ -18,8 +18,8 @@ const Navbar = () => {
 
             {/* Social / Extra Info */}
             <div className="nav-socials">
-                <a href="https://github.com" target="_blank" rel="noreferrer"><Github size={20} /></a>
-                <a href="https://linkedin.com" target="_blank" rel="noreferrer"><Linkedin size={20} /></a>
+                <a href="https://github.com/Sudharsan136" target="_blank" rel="noreferrer"><Github size={20} /></a>
+                <a href="https://www.linkedin.com/in/sudharsan-m-760916290/" target="_blank" rel="noreferrer"><Linkedin size={20} /></a>
             </div>
 
             {/* Mobile Toggle */}
